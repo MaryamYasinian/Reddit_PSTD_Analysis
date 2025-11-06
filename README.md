@@ -2,7 +2,7 @@
 
 My project explores which word(s) describes Post Traumatic Stress Disorder (PTSD) for people impacted by PTSD. Using data collected from a Reddit discussion with 214 user responses, I analyzed how individuals living with PTSD articulate their experiences.
 
-As a healthcare researcher and data analyst, I'm building this project out of a passion for understanding mental health and human expression. Please refer to my codes above (Reddit1_PTSD.ipynb) to learn how I explored the data and made decisions on my NLP techniques to extract trauma key words 
+As a healthcare researcher and data analyst, I'm building this project out of a passion for understanding mental health and human expression. Please refer to my codes above (Reddit1_PTSD.ipynb) to learn how I explored the data and made decisions on my NLP techniques to extract trauma key words and themes. this project is ongoing, and I work on it on a daily basis to eventually complete my analysis and write an essay on my findings. Stay tuned! 
 
 # Tools & Techniques
 - Reddit API for automated comment extraction
