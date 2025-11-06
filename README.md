@@ -9,7 +9,7 @@ As a healthcare researcher and data analyst, I built this project out of a passi
 - Python for data collection, text processing, statistical analysis and visualization
 - SQL for data organization, joining tables, querying
 - Natural Language Processing (NLP) for text cleaning, lemmatization, and linguistic analysis
-- 
+  
 # What my Project Does
 - Collects real-world Reddit responses about PTSD
 - Cleans and preprocesses text to remove noise and irrelevant tokens
